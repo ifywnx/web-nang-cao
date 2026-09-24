@@ -7,12 +7,12 @@ Một trang web gồm 4 chức năng AI chạy trên cùng một backend FastAPI
 
 ## Thành viên
 
-| Họ và tên | MSSV | Phụ trách |
+| Họ và tên | MSSV | Phân công |
 |---|---|---|
-| Phạm Thảo Hiền Vy | 24100439 | [điền theo việc thực tế đã làm] |
-| Đào Bá Tuấn Ngọc | 24100498 | [điền theo việc thực tế đã làm] |
-| Phạm Thế Duy | 24100583 | [điền theo việc thực tế đã làm] |
-| Nguyễn Văn An | 24100254 | [điền theo việc thực tế đã làm] |
+| Phạm Thảo Hiền Vy | 24100439 | Kiểm tra chức năng chatbot RAG, chụp ảnh giao diện chatbot |
+| Đào Bá Tuấn Ngọc | 24100498 | Hoàn thiện slide "Cách làm" và đưa vào `docs/` |
+| Phạm Thế Duy | 24100583 | Rà soát README, bổ sung khai báo AI của nhóm |
+| Nguyễn Văn An | 24100254 | Chạy notebook trên Colab, đưa mã nguồn lên GitHub, chụp ảnh giao diện, kiểm tra và nộp bài |
 
 ## Ảnh giao diện
 
