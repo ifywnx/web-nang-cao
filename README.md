@@ -93,6 +93,5 @@ Công cụ AI dùng để làm bài:
 | Công cụ | Phiên bản | Dùng để |
 |---|---|---|
 | Claude (Anthropic) | Claude Sonnet 5 | Hướng dẫn chạy notebook, đưa code lên GitHub, soạn README và slide |
-| [AI khác nếu có] | [Phiên bản] | [Mục đích] |
 
 Mô hình AI chạy trong sản phẩm: ResNet-18 (torchvision), YOLO11n (Ultralytics), CLIP ViT-B/32 (`openai/clip-vit-base-patch32`), `paraphrase-multilingual-MiniLM-L12-v2`, Qwen2.5-Instruct.
