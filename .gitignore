@@ -2,3 +2,9 @@ node_modules/
 __pycache__/
 logs/
 .DS_Store
+.codex-build-slide/
+.codex-finalizer/
+.codex-output/
+docs/original/
+*.pptx
+~$*.pptx
