@@ -62,7 +62,6 @@ Số đo lấy từ `artifacts/*/metrics.json` và `artifacts/rag_metrics.json`.
 Cách dễ nhất là mở notebook trên Google Colab, bật GPU T4 rồi chọn **Chạy tất cả**. Cuối notebook in ra link công khai của giao diện React và Streamlit.
 
 Chạy trên máy (Python 3.11, Node 22):
-
 ```bash
 pip install -r requirements.txt
 uvicorn api.main:app --port 8000          # backend + giao diện React đã build (mở http://localhost:8000)
